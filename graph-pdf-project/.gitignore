@@ -2,6 +2,7 @@
 /public/hot
 /public/storage
 /storage/*.key
+/storage/fonts/*.Identifier
 /vendor
 .env.backup
 .phpunit.result.cache
