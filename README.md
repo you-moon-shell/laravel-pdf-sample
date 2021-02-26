@@ -6,7 +6,7 @@
 
 `git clone git@github.com:you-moon-shell/laravel-graph-pdf-sample.git .`
 
-以下よりフォントの zip ファイルを取得(ここから zip ファイルをダウンロードしないと identifier ファイルが生成されない)
+以下よりフォントの zip ファイルを取得
 
 http://moji.or.jp/wp-content/ipafont/IPAfont/IPAfont00303.zip
 
