@@ -5,20 +5,13 @@
   <meta charset="UTF-8">
   <title>PDF</title>
   <style>
-    @font-face {
-      font-family: ipagp;
-      font-style: normal;
-      font-weight: normal;
-      src:url("{{ storage_path('fonts/ipagp.ttf')}}");
-    }
-
     html {
       margin: 0;
     }
 
     body {
       margin: 0;
-      font-family: ipagp;
+      font-family: ipag;
     }
   </style>
 </head>

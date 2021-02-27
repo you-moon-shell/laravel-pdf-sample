@@ -9,8 +9,8 @@ class PDFController extends Controller
 {
     private function generateGraph()
     {
-        $max     = 30000;
-        $step    = 5000;
+        $max     = 100;
+        $step    = 20;
 
         $title = 'Bar and Line Graph';
         $bar = array(20, 50, 40, 80, 100, 90, 70, 70, 70, 70, 70, 70, 70, 70, 70);
@@ -30,7 +30,7 @@ class PDFController extends Controller
         $margin_bottom   = 50;
         $margin_left     = 80;
 
-        $font = storage_path('fonts/ipagp.ttf');
+        $font = storage_path('fonts/ipag.ttf');
         $font_size = 10;
 
         $image = imagecreatetruecolor($width + $margin_left + $margin_right, $height + $margin_top + $margin_bottom);

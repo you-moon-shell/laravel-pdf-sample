@@ -31,5 +31,3 @@ vscode より [dir] を開く
 - 「localhost:8000/export」にアクセスすると pdf 出力ページに飛びます。
 
 - 「app/Http/Controllers/PDFController.php」にグラフ生成ロジックがあります。
-
-- ※input にいれた日本語が PDF 上で化けてしまっているのは開発途中のため気にしないでください。。。
