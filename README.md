@@ -10,7 +10,7 @@
 
 http://moji.or.jp/wp-content/ipafont/IPAfont/IPAfont00303.zip
 
-zip ファイル内の\*.ttf ファイルを./graph-pdf-project/storage/fonts 配下に配置
+~~zip ファイル内の\*.ttf ファイルを./graph-pdf-project/storage/fonts 配下に配置~~
 
 vscode より [dir] を開く
 
