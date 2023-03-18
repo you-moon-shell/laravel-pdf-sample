@@ -6,12 +6,6 @@
 
 `git clone git@github.com:you-moon-shell/laravel-graph-pdf-sample.git .`
 
-~~以下よりフォントの zip ファイルを取得~~ (不要になりました。)
-
-http://moji.or.jp/wp-content/ipafont/IPAfont/IPAfont00303.zip
-
-~~zip ファイル内の\*.ttf ファイルを./graph-pdf-project/storage/fonts 配下に配置~~
-
 vscode より [dir] を開く
 
 「ms-vscode-remote.remote-containers」拡張をインストール
