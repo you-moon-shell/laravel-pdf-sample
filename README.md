@@ -1,4 +1,4 @@
-### <ホスト OS 上>
+### ホスト OS
 
 `mkdir [dir]`
 
@@ -12,7 +12,7 @@ vscode より [dir] を開く
 
 コマンドパレットより「Remonote-Containers: Open Folder in Container…」を選択
 
-### <ここから container 内>
+### Docker Container
 
 `cd graph-pdf-project/`
 
@@ -20,8 +20,8 @@ vscode より [dir] を開く
 
 `php artisan serve`
 
-これで laravel の welcome 画面がでるはずです。
+これで laravel の welcome 画面が出る
 
-- 「localhost:8000/export」にアクセスすると pdf 出力ページに飛びます。
+- 「localhost:8000/export」にアクセスすると pdf 出力ページに飛ぶ
 
-- 「app/Http/Controllers/PDFController.php」にグラフ生成ロジックがあります。
+- 「app/Http/Controllers/PDFController.php」にグラフ生成ロジックを配置
